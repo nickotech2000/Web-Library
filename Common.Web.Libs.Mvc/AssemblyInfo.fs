@@ -1,4 +1,4 @@
-﻿namespace Common.Web.Libs.AssemblyInfo
+﻿namespace Common.Web.Libs.Mvc.AssemblyInfo
 
 open System.Reflection
 open System.Runtime.CompilerServices
@@ -7,12 +7,12 @@ open System.Runtime.InteropServices
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[<assembly: AssemblyTitle("Common.Web.Libs")>]
+[<assembly: AssemblyTitle("Common.Web.Libs.Mvc")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
-[<assembly: AssemblyProduct("Common.Web.Libs")>]
-[<assembly: AssemblyCopyright("Copyright ©  Nicko 2016")>]
+[<assembly: AssemblyProduct("Common.Web.Libs.Mvc")>]
+[<assembly: AssemblyCopyright("Copyright © Nicko 2016")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
 
@@ -22,7 +22,7 @@ open System.Runtime.InteropServices
 [<assembly: ComVisible(false)>]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[<assembly: Guid("665b17c1-1d74-4d0a-aac6-3d744c7d48f2")>]
+[<assembly: Guid("f3a66f83-72c9-4df7-be42-5594a97d359b")>]
 
 // Version information for an assembly consists of the following four values:
 //
