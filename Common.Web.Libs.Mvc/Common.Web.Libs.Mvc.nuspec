@@ -8,11 +8,11 @@
     <owners>Nicko Satria Utama</owners>
     <licenseUrl>http://nickosatria.work/license.html</licenseUrl>
     <projectUrl>https://github.com/nickotech2000/Web-Library/wiki</projectUrl>
-    <iconUrl></iconUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://icons.iconarchive.com/icons/custom-icon-design/flatastic-10/512/Bear-icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Simple Web MVC Library using F#</description>
     <releaseNotes>This is still at development </releaseNotes>
-    <copyright>Copyright Nicko 2016</copyright>
-    <tags>MVC C# F#</tags>
+    <copyright>Copyright Nicko @2016</copyright>
+    <tags>ASP.NET MVC C# F#</tags>
   </metadata>
 </package>

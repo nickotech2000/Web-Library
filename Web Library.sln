@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FreeAssets", "FreeAssets", 
 		FreeAssets\Bear-icon.png = FreeAssets\Bear-icon.png
 	EndProjectSection
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Common.Web.Libs.API", "Common.Web.Libs.API\Common.Web.Libs.API.fsproj", "{0F8EC322-705D-4EDA-8CA5-0DC8EEAEEE4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{F3A66F83-72C9-4DF7-BE42-5594A97D359B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3A66F83-72C9-4DF7-BE42-5594A97D359B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3A66F83-72C9-4DF7-BE42-5594A97D359B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8EC322-705D-4EDA-8CA5-0DC8EEAEEE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8EC322-705D-4EDA-8CA5-0DC8EEAEEE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8EC322-705D-4EDA-8CA5-0DC8EEAEEE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8EC322-705D-4EDA-8CA5-0DC8EEAEEE4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
