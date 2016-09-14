@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.0.1</version>
+    <title>Simple Web MVC Library</title>
+    <authors>Nicko Satria Utama</authors>
+    <owners>Nicko Satria Utama</owners>
+    <licenseUrl>http://nickosatria.work/license.html</licenseUrl>
+    <projectUrl>https://github.com/nickotech2000/Web-Library/wiki</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple Web MVC Library using F#</description>
+    <releaseNotes>This is still at development </releaseNotes>
+    <copyright>Copyright Nicko 2016</copyright>
+    <tags>MVC C# F#</tags>
+  </metadata>
+</package>

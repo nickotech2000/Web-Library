@@ -9,6 +9,11 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Common.Web.Libs", "Common.W
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Common.Web.Libs.Mvc", "Common.Web.Libs.Mvc\Common.Web.Libs.Mvc.fsproj", "{F3A66F83-72C9-4DF7-BE42-5594A97D359B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FreeAssets", "FreeAssets", "{6725247E-6275-4684-9423-8151FDB01936}"
+	ProjectSection(SolutionItems) = preProject
+		FreeAssets\Bear-icon.png = FreeAssets\Bear-icon.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
